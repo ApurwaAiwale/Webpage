@@ -1,0 +1,174 @@
+.welcome-div {
+    background-color: black;
+    opacity: 0.5;
+    width: 100%;
+    height: 600px;
+    color: white;
+    position: relative;
+}
+
+.navbar-brand {
+    color: #882f77;
+    font-weight: 500;
+} 
+
+.img-div {
+    background-image: url('../img/welcome-image.jpg');
+    background-size: cover;
+}
+.welcome-div h4 {
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+.welcome-div p {
+    font-size: 1.5rem;
+}
+
+.get-button {
+    background-color:#882f77;
+    color: white;
+    padding: 8px 35px;
+}
+.content-div {
+    font-size: 35px;
+    color:#882f77;
+}
+
+.about-us {
+    background-color: #882f77;
+    width: 100%;
+    color: white;
+}
+
+.about-us span {
+    letter-spacing: 0.25rem;
+    font-size: 8px;
+}
+
+.read-button {
+    background-color: white;
+    color: #882f77;
+}
+
+.sub-heading {
+    font-size: 30px;
+}
+
+.abt {
+    padding-right: 80px;
+}
+
+.read-button-inverted {
+    background-color: #882f77;
+    color: white;
+}
+
+.healthcare-div {
+    
+}
+
+.card {
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid #882f77;
+}
+
+.card-heading {
+    font-size: 35px;
+}
+
+.card-sub-heading {
+    font-size: 1.5rem;
+}
+
+.card-img {
+    max-height: 175px;
+}
+
+.card-parent-div {
+    background-color: #f6f7fb;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+.testimonials-div {
+    font-size: 35px
+}
+
+.testimonials-content {
+    width: 80%;
+    text-align: center;
+}
+.testimonials-name {
+    font-weight: 100;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+.sub-content {
+    font-weight: 100;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.get-answers {
+    background-color: #f6f7fb;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+.get-answer-head {
+    font-size: 35px;
+}
+
+.ul-nav-div {
+    list-style: none;
+}
+
+.ul-div {
+    background-color:#f6f7fb ;
+}
+
+.ul-nav-div a {
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+}
+
+.border-custom {
+    border-right: 1px solid black;
+    font-size: 12px;
+}
+.navbar {
+    padding: 0;
+}
+
+.footer-div {
+    background-color:#f6f7fb ;
+}
+
+.footer-heading {
+    color: #882f77;
+    font-size: 22px;
+    margin-bottom: 0.5rem;
+}
+
+.footer-list {
+    list-style: none;
+    padding: 0;
+    font-size: 14px;
+    margin-bottom: 2rem;
+}
+
+.footer-list a {
+    text-decoration: none;
+    color: black;
+}
+
+.list-cls {
+    padding-top: 43px;
+}
